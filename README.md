@@ -19,5 +19,5 @@ After that I realized that I could make `n bit Multiplier` with n - 1 number of 
 ```
 ## Compiler
 You can compile it with: 
--  Modelsim
-- https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/questa-edition.html Qusta Sim
+- Modelsim
+- Qustasim
