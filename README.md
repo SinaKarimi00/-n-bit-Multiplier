@@ -1,7 +1,7 @@
 # n bit Multiplier
 This is my first project in VHDL
 ## Information
-I design this `4 bit Multiplier` with `4 bit Full-Adder`
+I design this `4 bit Multiplier` with `4 bit Full-Adder` <br>
 **Diagram**: 
 
 
