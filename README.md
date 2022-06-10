@@ -2,7 +2,7 @@
 This is my first project in VHDL
 ## Information
 **Diagram**: 
-I modeled this `4 bit Multiplier` to design `4 bit Multiplier`
+I modeled this `4 bit Full-Adder` to design `4 bit Multiplier`
 
 ![Diagram](./Picture/4_bit_Multiplier%20(1).jpg)
 
