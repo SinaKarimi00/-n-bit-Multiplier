@@ -1,7 +1,7 @@
 # n bit Multiplier
 This is my first project in VHDL
 ## Information
-I design this `4 bit Multiplier` with `4 bit Full-Adder` <br>
+I design `4 bit Multiplier` with `4 bit Full-Adder` <br>
 **Diagram**: 
 
 
@@ -21,4 +21,4 @@ After that I realized that I could make `n bit Multiplier` with n - 1 numbers of
 ## Compiler
 You can compile it with: 
 - Modelsim
-- Qustasim
+- <a  href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/questa-edition.html" target="_blank"> Qustasim </a>
