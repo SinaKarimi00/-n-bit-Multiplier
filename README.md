@@ -17,3 +17,5 @@ After that I realized that I could make `n bit Multiplier` with n - 1 number of 
                  .
                  .
 ```
+## Compiler
+You can compile it with - Modelsim - Qusta Sim
