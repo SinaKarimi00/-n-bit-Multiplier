@@ -1,8 +1,9 @@
 # n bit Multiplier
 This is my first project in VHDL
 ## Information
-**Diagram**: 
 I design this `4 bit Multiplier` with `4 bit Full-Adder`
+**Diagram**: 
+
 
 ![Diagram](./Picture/4_bit_Multiplier%20.jpg)
 
