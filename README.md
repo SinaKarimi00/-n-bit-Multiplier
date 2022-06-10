@@ -1,5 +1,4 @@
 # n bit Multiplier
-A n bit Multiplier in VHDL
 This is my first project in VHDL
 ## Information
 **Diagram**: 
