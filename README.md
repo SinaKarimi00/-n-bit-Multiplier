@@ -2,11 +2,11 @@
 This is my first project in VHDL
 ## Information
 **Diagram**: 
-I modeled this `4 bit Multiplier` to design `n bit Multiplier`
+I modeled this `4 bit Multiplier` to design `4 bit Multiplier`
 
 ![Diagram](./Picture/4_bit_Multiplier%20(1).jpg)
 
-I realized that I could make `n bit Multiplier` with n - 1 number of `n bit Full-Adder`.
+After that I realized that I could make `n bit Multiplier` with n - 1 number of `n bit Full-Adder`.
 
 ### Example: 
 ```text
