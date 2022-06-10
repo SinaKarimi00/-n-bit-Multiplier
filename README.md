@@ -4,7 +4,7 @@ This is my first project in VHDL
 **Diagram**: 
 I design this `4 bit Multiplier` with `4 bit Full-Adder`
 
-![Diagram](./Picture/4_bit_Multiplier%20(1).jpg)
+![Diagram](./Picture/4_bit_Multiplier%20.jpg)
 
 After that I realized that I could make `n bit Multiplier` with n - 1 number of `n bit Full-Adder`.
 
