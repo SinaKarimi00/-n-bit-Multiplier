@@ -20,5 +20,5 @@ After that I realized that I could make `n bit Multiplier` with n - 1 numbers of
 ```
 ## Compiler
 You can compile it with: 
-- Modelsim
+- <a  href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/model-sim.html" target="_blank"> Modelsim </a>
 - <a  href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/questa-edition.html" target="_blank"> Qustasim </a>
